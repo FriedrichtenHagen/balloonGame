@@ -1,0 +1,16 @@
+html{
+    height: 100%;
+}
+body{
+
+
+    height: 100%;
+}
+.top, .bottom{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.bottom{
+    height: 500px;
+}
